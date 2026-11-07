@@ -1,0 +1,22 @@
+{
+  "wheel_id": 809,
+  "structure": "umbrella",
+  "slug": "adelaidetilingwaterproofing-106",
+  "project": "bathroom-tiling-adelaide-before-you-start-e0d8fa236ad2c7797c96f",
+  "parent_t1_ref": "adelaidetilingwaterproofing-152",
+  "node_role": "feeder",
+  "money_target": "adelaidetilingwaterproofing.com.au",
+  "primary_kw": "bathroom tiling adelaide before you start",
+  "intended_url": "https://sitesau.github.io/adelaidetilingwaterproofing-106/",
+  "tier": "T2",
+  "writeback_nonce": "702861398bb650d3",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/bathroom-tiling-adelaide-glossary-9a2234a554fc627a7b69ecd268716/",
+      "anchor": "the related resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
